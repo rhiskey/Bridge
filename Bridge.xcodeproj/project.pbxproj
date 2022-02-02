@@ -16,6 +16,7 @@
 		5BF11E3D27AAA35C0052019C /* BridgeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BF11E3C27AAA35C0052019C /* BridgeTests.swift */; };
 		5BF11E4727AAA35C0052019C /* BridgeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BF11E4627AAA35C0052019C /* BridgeUITests.swift */; };
 		5BF11E4927AAA35C0052019C /* BridgeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BF11E4827AAA35C0052019C /* BridgeUITestsLaunchTests.swift */; };
+		5BF11E5627AAA48D0052019C /* DayPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BF11E5527AAA48D0052019C /* DayPickerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		5BF11E4227AAA35C0052019C /* BridgeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BridgeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BF11E4627AAA35C0052019C /* BridgeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BridgeUITests.swift; sourceTree = "<group>"; };
 		5BF11E4827AAA35C0052019C /* BridgeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BridgeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5BF11E5527AAA48D0052019C /* DayPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayPickerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				5BF11E2527AAA35B0052019C /* AppDelegate.swift */,
 				5BF11E2727AAA35B0052019C /* SceneDelegate.swift */,
 				5BF11E2927AAA35B0052019C /* ViewController.swift */,
+				5BF11E5527AAA48D0052019C /* DayPickerView.swift */,
 				5BF11E2B27AAA35B0052019C /* Main.storyboard */,
 				5BF11E2E27AAA35C0052019C /* Assets.xcassets */,
 				5BF11E3027AAA35C0052019C /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5BF11E2A27AAA35B0052019C /* ViewController.swift in Sources */,
+				5BF11E5627AAA48D0052019C /* DayPickerView.swift in Sources */,
 				5BF11E2627AAA35B0052019C /* AppDelegate.swift in Sources */,
 				5BF11E2827AAA35B0052019C /* SceneDelegate.swift in Sources */,
 			);
